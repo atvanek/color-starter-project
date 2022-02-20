@@ -59,25 +59,33 @@ footer {
 /* Change the background colors below */
 
 @media (min-width: 768px) {
+
+
+
   header {
     background-color:#be2596 ;
   }
 
   #column-1 {
     background-color: #96be25;
+    width: 50%
   }
 
   #column-2 {
     background-color:#2596be ;
+    width: 50%;
   }
 
   #column-3 {
     background-color:#bea925 ;
+
   }
 
   footer {
     background-color:#be4d25 ;
   }
+
+
   
 }
 
@@ -90,14 +98,17 @@ footer {
 
   #column-1 {
     background-color:#259cbe ;
+    width: 33.3%
   }
 
   #column-2 {
     background-color: #9325be;
+    width: 33.3%
   }
 
   #column-3 {
     background-color: #be4625;
+    width: 33.3%
   }
 
   footer {
